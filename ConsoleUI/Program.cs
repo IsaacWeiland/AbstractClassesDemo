@@ -47,8 +47,9 @@ namespace ConsoleUI
 
             // Call each of the drive methods for one car and one motorcycle
 
-            #endregion            
-            Console.ReadLine();
+            #endregion
+
+            LoopClass.Assignment();
         }
     }
 }
